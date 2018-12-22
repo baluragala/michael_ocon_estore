@@ -1,0 +1,77 @@
+ES6
+    variable scoping
+    template literal
+    arrow functions
+    
+React Native
+------------
+    Component
+        - class - render
+        - function
+    JSX 
+        - expressions
+        - attributes
+        - children
+        - iterations
+        - conditions
+    State
+        this.state
+        this.setState
+    Props
+        parent -> children
+        children -> parent (callbacks)
+    Lifecycle
+        Mouting
+        Updating
+        Unmounting
+React Native
+    - why RN 
+    - setup ( expo * rn-cli)
+Layout
+    inline
+    style JS objects
+    StyleSheet.create
+    platfrom specific 
+
+    Images
+    Text
+    Layout 
+        Flexbox 
+            - conatiner
+                flexDirection
+                justifyContent
+                alignItems
+                flexWrap
+                alignContent
+            - item
+                alignSelf
+                flexShrink
+                flexGrow
+                flexBasis
+    React Native Components
+        View
+        Text
+        Image
+        ScrollView
+        Button
+        Touchables
+        ListView
+            FlatList
+                RefreshControl
+                Loading
+        ActivityIndicator
+        ActionSheetIOS
+        ToastAndroid
+        TextInput
+        Picker
+    React Native APIs
+        Gelocation
+        RequestPermissionsAndroid
+        Alert
+        Vibrate
+        Camera
+    Navigation
+        Stack
+        Tab
+    Remote Communication
+    
